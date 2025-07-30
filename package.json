@@ -4,10 +4,15 @@
   "description": "Backend para la app PetsMap",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
