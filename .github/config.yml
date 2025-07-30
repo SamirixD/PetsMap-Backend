@@ -1,0 +1,8 @@
+# Configuración para Pull Requests
+pull_request_template_path: .github/pull_request_template.md
+
+# Configuración de Issues (opcional)
+issue_template_path: .github/ISSUE_TEMPLATE/
+
+# Configuración de contribuciones
+contributing_path: CONTRIBUTING.md 
